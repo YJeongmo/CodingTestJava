@@ -13,7 +13,7 @@ public class OpenChattingRoom {
                     user.put(logs[1], logs[2]);
                 }
             }
-            
+
             List<String> list = new ArrayList<>();
             for (int i = 0; i < record.length; i++) {
                 String[] prints = record[i].split(" ");
