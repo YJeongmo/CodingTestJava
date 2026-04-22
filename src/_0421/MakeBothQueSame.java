@@ -1,3 +1,5 @@
+package _0421;
+
 import java.util.*;
 
 public class MakeBothQueSame {

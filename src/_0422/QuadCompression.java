@@ -1,3 +1,5 @@
+package _0422;
+
 public class QuadCompression {
 
     int cnt_0 = 0;
