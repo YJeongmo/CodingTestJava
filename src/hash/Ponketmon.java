@@ -1,4 +1,4 @@
-package _05.hash;
+package hash;
 
 import java.util.*;
 
